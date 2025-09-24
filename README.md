@@ -9,7 +9,7 @@ Hi I'm Nour!
 
 ### 🌸 About me
 
-I’m a creative developer who enjoys turning ideas into intuitive, impactful digital experiences. I care deeply about clarity, thoughtful design, and building things that make a difference. When I’m not coding or designing, you’ll probably find me reading fantasy books, getting inspired by powerful stories and complex characters.
+I’m a software engineer who enjoys turning ideas into intuitive, impactful digital experiences. I care deeply about clarity, clean code, thoughtful design, and building things that make a difference. When I’m not coding or designing, you’ll probably find me reading fantasy books, or day-dreaming about a new project idea.
 
 <b>Fun Facts</b>
 - I really love coffee (like… a lot ☕)
